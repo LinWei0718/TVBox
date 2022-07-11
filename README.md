@@ -1,6 +1,8 @@
 # ROKI BIOS
 AC Power Loss off 桌機關，on Server開
 
+OnBoars Option LAN 網路卡開機
+
 設定AHCI or RST...也可
 
 無法喚醒可能原因Fast Boot，選「Boot Options」→移到「Fast Boot」→改成 [ Disabled ]
@@ -20,4 +22,7 @@ WIN_FILE2=....改第二磁區
 
 #按右鍵進管理員
 
+#ROKI大量安裝
+https://sites.google.com/tykes.tn.edu.tw/5a88-tni
 
+開nginx，pxesrve關閉HTTPD開啟PROXYDhcp
