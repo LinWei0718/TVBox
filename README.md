@@ -27,5 +27,9 @@ https://sites.google.com/tykes.tn.edu.tw/5a88-tni
 
 開nginx，pxesrve關閉HTTPD開啟PROXYDhcp
 
-#更新ROKI
-進還原點後，安裝完驅動、相關程式，回包成樣本按8準備派送當樣本機
+#按0更新ROKI
+進還原點後，安裝完驅動、相關程式，回包成樣本按8準備派送當樣本機，接著按9製作隨身碟，壓縮會很久，請耐心等候
+
+#Windows的Administrator密碼tn@2021
+
+#
