@@ -30,7 +30,7 @@ https://sites.google.com/tykes.tn.edu.tw/5a88-tni
 # 按0更新ROKI
 進還原點後，安裝完驅動、相關程式，回包成樣本按8準備派送當樣本機，接著按9製作隨身碟，壓縮會很久，請耐心等候
 
-# Windows的Administrator密碼tn@2021Veyon
+# Windows的Administrator密碼tn@2021
 
 # Veyon
 用tnR掃描IP、MAC，把本機加上1，將IP_list複製進D:\vhdos\Roki，把學生private key刪除，學生就不能使用。檔案放在D:\vhdos\Roki\Veyon\keys裡
