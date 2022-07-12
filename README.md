@@ -20,16 +20,17 @@ Dism++ 驅動管理=>選擇要的Driver或全選=>匯出驅動
 WIN_FILE2=....改第二磁區
 # 安裝完進ROKI主程式，按任意頁籤停止倒數秒數
 
-#按右鍵進管理員
+# 按右鍵進管理員
 
-#ROKI大量安裝
+# ROKI大量安裝
 https://sites.google.com/tykes.tn.edu.tw/5a88-tni
 
 開nginx，pxesrve關閉HTTPD開啟PROXYDhcp
 
-#按0更新ROKI
+# 按0更新ROKI
 進還原點後，安裝完驅動、相關程式，回包成樣本按8準備派送當樣本機，接著按9製作隨身碟，壓縮會很久，請耐心等候
 
-#Windows的Administrator密碼tn@2021
+# Windows的Administrator密碼tn@2021Veyon
 
-#
+# Veyon
+用tnR掃描IP、MAC，把本機加上1，將IP_list複製進D:\vhdos\Roki，把學生private key刪除，學生就不能使用。檔案放在D:\vhdos\Roki\Veyon\keys裡
