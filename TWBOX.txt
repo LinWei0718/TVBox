@@ -1,0 +1,73 @@
+{
+  "spider": "https://share.nite07.com/api/v3/file/source/35277/custom_spider%20%281%29.jar?sign=JLgvjGA_iVuGga4j5AA9AmPCPY7JkxpzDo0ZZgJC0PM%3D%3A0",
+  "wallpaper": "",
+  "lives": [
+    {
+      "name": "直播",
+      "type": 0,
+      "url": "https://share.nite07.com/api/v3/file/source/35271/%E5%A4%A7%E8%A1%97TW.txt?sign=5wMOBzX-0dclt7X22d0XOUnjQ6jOcw8y3KCz-Ah5JKI%3D%3A0",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
+  ],
+  "sites": [
+   
+    {
+      "key": "泥巴",
+      "name": "台灣BOX",
+      "type": 3,
+      "api": "csp_NiNi",
+      "searchable": 1,
+      "filterable": 1
+    },
+
+    {
+      "key": "哔哩",
+      "name": "哔哩",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "filterable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json"
+    },
+    {
+      "key": "AList",
+      "name": "AList",
+      "type": 3,
+      "api": "csp_AList",
+      "searchable": 1,
+      "filterable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"
+    },
+
+
+
+    {
+      "key": "Jable",
+      "name": "🔞Jable",
+      "type": 3,
+      "api": "csp_Jable",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "MissAV",
+      "name": "🔞MissAV",
+      "type": 3,
+      "api": "csp_Miss",
+      "searchable": 1,
+      "filterable": 1
+    },
+
+
+   
+ {
+      "key": "玩偶",
+      "name": "🔞玩偶姊姊",
+      "type": 3,
+      "api": "csp_Doll",
+      "searchable": 1,
+      "filterable": 1
+    }
+  ]
+}
