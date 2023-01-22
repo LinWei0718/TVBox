@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/top98_1.jar",
+  "spider": "https://linwei0718.github.io/TVBox/top98_1.jar",
   "lives": [
     {
       "name": "直播",
