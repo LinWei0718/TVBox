@@ -156,37 +156,37 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext":{
-        "請求頭": "手機",
-        "起始頁": "1",
-        "二次擷取": "<div class=\"module-list\">&&<div class=\"mx-lrmenu\">[替換:<div class=\"fixed_right_bar\">>><div class=\"module-item\">]||首頁--最新熱播&&<div  class=\"module-main\"[替換:<div class=\"module module-wrapper\">>><div class=\"module-item\">]",
-        "陣列": "<div class=\"module-item-pic\">&&<div class=\"module-item\">[不包含:理論片]",
-        "副標題": "class=\"module-item-text\"&&<",
-        "線路陣列": "class=\"module-tab-item tab-item\"&&</div>[排序:極速播放>線上觀看]",
-        "線路標題": "<span>&&</small>[替換:</span>>>（更至]+集）",
+        "请求头": "手机",
+        "起始页": "1",
+        "二次截取": "<div class=\"module-list\">&&<div class=\"mx-lrmenu\">[替换:<div class=\"fixed_right_bar\">>><div class=\"module-item\">]||首页--最新热播&&<div  class=\"module-main\"[替换:<div class=\"module module-wrapper\">>><div class=\"module-item\">]",
+        "数组": "<div class=\"module-item-pic\">&&<div class=\"module-item\">[不包含:理论片]",
+        "副标题": "class=\"module-item-text\"&&<",
+        "线路数组": "class=\"module-tab-item tab-item\"&&</div>[排序:极速播放>线上观看]",
+        "线路标题": "<span>&&</small>[替换:</span>>>（更至]+集）",
         "影片年代": "<a class=\"tag-link\"*>&&</a>",
-        "導演": "導演：</span>&&</a>",
-        "演員": "主演：</span>&&</div>",
-        "簡介": "劇情：</span>&&</span>",
-        "播放陣列": "<div class=\"sort-item\"&&</div>",
+        "导演": "导演：</span>&&</a>",
+        "演员": "主演：</span>&&</div>",
+        "简介": "剧情：</span>&&</span>",
+        "播放数组": "<div class=\"sort-item\"&&</div>",
         "播放列表": "<!--&&-->",
         "免嗅": "1",
-        "嗅探詞": ".m3u8#.mp4",
-        "過濾詞": ".html#url=http",
+        "嗅探词": ".m3u8#.mp4",
+        "过滤词": ".html#url=http",
         "搜索模式": "0",
-        "搜索鏈接字首": "/video/",
-        "搜索鏈接後綴": ".html",
-        "分類url": "https://www.6080dy1.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
-        "分類": "電影&電視劇&綜藝&動漫",
-        "分類值": "1&2&3&4",
-        "型別": "動作片&喜劇片&愛情片&科幻片&恐怖片&劇情片&戰爭片&紀錄片&懸疑片&犯罪片&冒險片&動畫片&驚悚片&奇幻片國產劇&歐美劇&日韓劇&港臺劇&泰劇&海外劇大陸綜藝&日韓綜藝&港臺綜藝&歐美綜藝&演唱會||國產動漫&日韓動漫&歐美動漫&港臺動漫",
-        "型別值": "25&26&27&28&30&31&33&35&36&38&40&41&43&4442&45&47&49&51&5220&21&22&23&24||29&32&34&37",
-        "劇情": "喜劇&愛情&恐怖&動作&科幻&劇情&戰爭&警匪&犯罪&動畫&奇幻&武俠&冒險&槍戰&恐怖&懸疑&驚悚&經典&青春&文藝&微電影&古裝&歷史&運動&農村&兒童&網路電影古裝&戰爭&青春偶像&喜劇&家庭&犯罪&動作&奇幻&劇情&歷史&經典&鄉村&情景&商戰&網劇&其他選秀&情感&訪談&播報&旅遊&音樂&美食&紀實&曲藝&生活&遊戲互動&財經&求職||情感&科幻&熱血&推理&搞笑&冒險&蘿莉&校園&動作&機戰&運動&戰爭&少年&少女&社會&原創&親子&益智&勵志&其他",
-        "劇情值": "*",
-        "地區": "大陸&香港&臺灣&美國&法國&英國&日本&韓國&德國&泰國&印度&意大利&西班牙&加拿大&其他內地&韓國&香港&臺灣&日本&美國&泰國&英國&新加坡&其他內地&港臺&日韓&歐美||國產&日本&歐美&其他",
-        "篩選": "1"
+        "搜索链接前缀": "/video/",
+        "搜索链接后缀": ".html",
+        "分类url": "https://www.6080dy1.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+        "分类": "电影&电视剧&综艺&动漫",
+        "分类值": "1&2&3&4",
+        "型别": "动作片&喜剧片&爱情片&科幻片&恐怖片&剧情片&战争片&纪录片&悬疑片&犯罪片&冒险片&动画片&惊悚片&奇幻片国产剧&欧美剧&日韩剧&港台剧&泰剧&海外剧大陆综艺&日韩综艺&港台综艺&欧美综艺&演唱会||国产动漫&日韩动漫&欧美动漫&港台动漫",
+        "型别值": "25&26&27&28&30&31&33&35&36&38&40&41&43&4442&45&47&49&51&5220&21&22&23&24||29&32&34&37",
+        "剧情": "喜剧&爱情&恐怖&动作&科幻&剧情&战争&警匪&犯罪&动画&奇幻&武侠&冒险&枪战&恐怖&悬疑&惊悚&经典&青春&文艺&微电影&古装&历史&运动&农村&儿童&网络电影古装&战争&青春偶象&喜剧&家庭&犯罪&动作&奇幻&剧情&历史&经典&乡村&情景&商战&网剧&其他选秀&情感&访谈&播报&旅游&音乐&美食&纪实&曲艺&生活&游戏交互&财经&求职||情感&科幻&热血&推理&搞笑&冒险&萝莉&校园&动作&机战&运动&战争&少年&少女&社会&原创&亲子&益智&励志&其他",
+        "剧情值": "*",
+        "地区": "大陆&香港&台湾&美国&法国&英国&日本&韩国&德国&泰国&印度&意大利&西班牙&加拿大&其他内地&韩国&香港&台湾&日本&美国&泰国&英国&新加坡&其他内地&港台&日韩&欧美||国产&日本&欧美&其他",
+        "筛选": "1"
       }
     },
-    {"key": "csp_XBPQ_南瓜影視",
+    {"key": "csp_XBPQ_南瓜影视",
       "name": "南瓜影視",
       "type": 3,
       "api": "csp_XBPQ",
@@ -195,7 +195,7 @@
       "filterable": 0,
       "ext": "https://www.ngys8.com/vodshow/id/{cateId}/page{catePg}.html"
     },
-    {"key": "csp_biubiu_短視訊","name": "️短視訊(XB)","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "分類url:http://www.sharenice.net/{cateId}?page={catePg},分類:抖音,直接播放:1,嗅探詞:play/?#?item#qianpailive#.flv#mp4"},
+    {"key": "csp_biubiu_短视频","name": "️短視頻(XB)","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "分类url:http://www.sharenice.net/{cateId}?page={catePg},分类:抖音,直接播放:1,嗅探词:play/?#?item#qianpailive#.flv#mp4"},
     {
       "key": "csp_xb_zxzj",
       "name": "線上之家(XBiu)",
@@ -291,7 +291,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "{\"免嗅\":\"0\",\"副標題\":\"right\\\">&&</span>\",\"播放標題\":\">&&</a>\",\"播放陣列\":\"<ul class=\\\"stui-content__playlist&&</ul>\",\"線路陣列\": \"<img src=&&/h3>\",\"線路標題\": \">&&<\",\"分類url\":\"http://www.98ju.com/{cateId}/index{catePg}.html[http://www.98ju.com/{cateId}/index.html]\",\"分類\":\"電影$dianyingpian#電視劇$dianshiju#綜藝$zongyi#動漫$dongman\",\"型別\":\"dianyingpian--動作片$dongzuopian#愛情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#戰爭片$zhanzhengpian#喜劇片$xijupian#紀錄片$jilupian#劇情片$juqingpian||dianshiju--國產劇$guochanju#港臺劇$gangtaiju#日韓劇$rihanju#歐美劇$oumeiju]\",\"地區\":\"0\",\"劇情\":\"0\",\"年份\":\"0\",\"排序\":\"0\",\"篩選\":\"1\"}"
+      "ext": "{\"免嗅\":\"0\",\"副标题\":\"right\\\">&&</span>\",\"播放标题\":\">&&</a>\",\"播放数组\":\"<ul class=\\\"stui-content__playlist&&</ul>\",\"线路数组\": \"<img src=&&/h3>\",\"线路标题\": \">&&<\",\"分类url\":\"http://www.98ju.com/{cateId}/index{catePg}.html[http://www.98ju.com/{cateId}/index.html]\",\"分类\":\"电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman\",\"型别\":\"dianyingpian--动作片$dongzuopian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#战争片$zhanzhengpian#喜剧片$xijupian#纪录片$jilupian#剧情片$juqingpian||dianshiju--国产剧$guochanju#港台剧$gangtaiju#日韩剧$rihanju#欧美剧$oumeiju]\",\"地区\":\"0\",\"剧情\":\"0\",\"年份\":\"0\",\"排序\":\"0\",\"筛选\":\"1\"}"
     },
     {
       "key": "Gitcafe",
@@ -385,23 +385,23 @@
       "ext": {
         "flag": [
           "qq",
-          "騰訊",
+          "腾讯",
           "qiyi",
           "iqiyi",
-          "愛奇藝",
-          "奇藝",
+          "爱奇艺",
+          "奇艺",
           "youku",
-          "優酷",
+          "优酷",
           "mgtv",
           "芒果",
           "letv",
-          "樂視",
+          "乐视",
           "pptv",
           "PPTV",
           "sohu",
           "bilibili",
-          "嗶哩嗶哩",
-          "嗶哩"
+          "哔哩哔哩",
+          "哔哩"
         ]
       }
     },
@@ -412,23 +412,23 @@
       "ext": {
         "flag": [
           "qq",
-          "騰訊",
+          "腾讯",
           "qiyi",
           "iqiyi",
-          "愛奇藝",
-          "奇藝",
+          "爱奇艺",
+          "奇艺",
           "youku",
-          "優酷",
+          "优酷",
           "mgtv",
           "芒果",
           "letv",
-          "樂視",
+          "乐视",
           "pptv",
           "PPTV",
           "sohu",
           "bilibili",
-          "嗶哩嗶哩",
-          "嗶哩"
+          "哔哩哔哩",
+          "哔哩"
         ]
       }
     },
@@ -439,23 +439,23 @@
       "ext": {
         "flag": [
           "qq",
-          "騰訊",
+          "腾讯",
           "qiyi",
           "iqiyi",
-          "愛奇藝",
-          "奇藝",
+          "爱奇艺",
+          "奇艺",
           "youku",
-          "優酷",
+          "优酷",
           "mgtv",
           "芒果",
           "letv",
-          "樂視",
+          "乐视",
           "pptv",
           "PPTV",
           "sohu",
           "bilibili",
-          "嗶哩嗶哩",
-          "嗶哩"
+          "哔哩哔哩",
+          "哔哩"
         ]
       }
     },
@@ -466,23 +466,23 @@
       "ext": {
         "flag": [
           "qq",
-          "騰訊",
+          "腾讯",
           "qiyi",
           "iqiyi",
-          "愛奇藝",
-          "奇藝",
+          "爱奇艺",
+          "奇艺",
           "youku",
-          "優酷",
+          "优酷",
           "mgtv",
           "芒果",
           "letv",
-          "樂視",
+          "乐视",
           "pptv",
           "PPTV",
           "sohu",
           "bilibili",
-          "嗶哩嗶哩",
-          "嗶哩"
+          "哔哩哔哩",
+          "哔哩"
         ]
       }
     },
@@ -493,23 +493,23 @@
       "ext": {
         "flag": [
           "qq",
-          "騰訊",
+          "腾讯",
           "qiyi",
           "iqiyi",
-          "愛奇藝",
-          "奇藝",
+          "爱奇艺",
+          "奇艺",
           "youku",
-          "優酷",
+          "优酷",
           "mgtv",
           "芒果",
           "letv",
-          "樂視",
+          "乐视",
           "pptv",
           "PPTV",
           "sohu",
           "bilibili",
-          "嗶哩嗶哩",
-          "嗶哩"
+          "哔哩哔哩",
+          "哔哩"
         ]
       }
     },
@@ -524,23 +524,23 @@
       "ext": {
         "flag": [
           "qq",
-          "騰訊",
+          "腾讯",
           "qiyi",
           "iqiyi",
-          "愛奇藝",
-          "奇藝",
+          "爱奇艺",
+          "奇艺",
           "youku",
-          "優酷",
+          "优酷",
           "mgtv",
           "芒果",
           "letv",
-          "樂視",
+          "乐视",
           "pptv",
           "PPTV",
           "sohu",
           "bilibili",
-          "嗶哩嗶哩",
-          "嗶哩"
+          "哔哩哔哩",
+          "哔哩"
         ],
         "header": {
           "User-Agent": "Dart/2.14 (dart:io)"
@@ -560,12 +560,12 @@
         "flag": [
           "rx",
           "qq",
-          "騰訊",
+          "腾讯",
           "qiyi",
-          "愛奇藝",
-          "奇藝",
+          "爱奇艺",
+          "奇艺",
           "youku",
-          "優酷",
+          "优酷",
           "mgtv",
           "芒果"
         ]
